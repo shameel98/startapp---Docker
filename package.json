@@ -1,7 +1,6 @@
 {
   "name": "startapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^6.4.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shameel98/startapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shameel98/startapp/issues"
+  },
+  "homepage": "https://github.com/shameel98/startapp#readme",
+  "description": ""
 }
